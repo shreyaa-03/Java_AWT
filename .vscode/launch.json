@@ -1,0 +1,414 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Actiondemo",
+            "request": "launch",
+            "mainClass": "Actiondemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Borderlayout",
+            "request": "launch",
+            "mainClass": "Borderlayout",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch CardLayoutExample",
+            "request": "launch",
+            "mainClass": "CardLayoutExample",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ColorChange",
+            "request": "launch",
+            "mainClass": "ColorChange",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ColorChooserExample",
+            "request": "launch",
+            "mainClass": "ColorChooserExample",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ComboBoxDemo",
+            "request": "launch",
+            "mainClass": "ComboBoxDemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Compodemo",
+            "request": "launch",
+            "mainClass": "Compodemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Containerdemo",
+            "request": "launch",
+            "mainClass": "Containerdemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dreciver",
+            "request": "launch",
+            "mainClass": "Dreciver",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Dsender",
+            "request": "launch",
+            "mainClass": "Dsender",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Example1",
+            "request": "launch",
+            "mainClass": "Example1",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Flow",
+            "request": "launch",
+            "mainClass": "Flow",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Focusdemo",
+            "request": "launch",
+            "mainClass": "Focusdemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Form",
+            "request": "launch",
+            "mainClass": "Form",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Grid",
+            "request": "launch",
+            "mainClass": "Grid",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Itemdemo",
+            "request": "launch",
+            "mainClass": "Itemdemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Itemdemo2",
+            "request": "launch",
+            "mainClass": "Itemdemo2",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch JTreeDemo",
+            "request": "launch",
+            "mainClass": "JTreeDemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch JbuttonDemo",
+            "request": "launch",
+            "mainClass": "JbuttonDemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jcheckbox",
+            "request": "launch",
+            "mainClass": "Jcheckbox",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch JdbcDemo",
+            "request": "launch",
+            "mainClass": "JdbcDemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch JframeDemo",
+            "request": "launch",
+            "mainClass": "JframeDemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jlabelicon",
+            "request": "launch",
+            "mainClass": "Jlabelicon",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch JpawdDemo",
+            "request": "launch",
+            "mainClass": "JpawdDemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jprogbar",
+            "request": "launch",
+            "mainClass": "Jprogbar",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jradio",
+            "request": "launch",
+            "mainClass": "Jradio",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jscrollpane",
+            "request": "launch",
+            "mainClass": "Jscrollpane",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch JsliderDemo",
+            "request": "launch",
+            "mainClass": "JsliderDemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jtabed",
+            "request": "launch",
+            "mainClass": "Jtabed",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jtable",
+            "request": "launch",
+            "mainClass": "Jtable",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch JtextFieldarea",
+            "request": "launch",
+            "mainClass": "JtextFieldarea",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Jtimer",
+            "request": "launch",
+            "mainClass": "Jtimer",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Keydemo",
+            "request": "launch",
+            "mainClass": "Keydemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyClient",
+            "request": "launch",
+            "mainClass": "MyClient",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyServer",
+            "request": "launch",
+            "mainClass": "MyServer",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prac1",
+            "request": "launch",
+            "mainClass": "Prac1",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prac11",
+            "request": "launch",
+            "mainClass": "Prac11",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prac13",
+            "request": "launch",
+            "mainClass": "Prac13",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prac14",
+            "request": "launch",
+            "mainClass": "Prac14",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prac2",
+            "request": "launch",
+            "mainClass": "Prac2",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prac3",
+            "request": "launch",
+            "mainClass": "Prac3",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prac3_jdbc",
+            "request": "launch",
+            "mainClass": "Prac3_jdbc",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prac4",
+            "request": "launch",
+            "mainClass": "Prac4",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prac5",
+            "request": "launch",
+            "mainClass": "Prac5",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Prac9",
+            "request": "launch",
+            "mainClass": "Prac9",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch ProgressbarDemo",
+            "request": "launch",
+            "mainClass": "ProgressbarDemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Scrollbardemo",
+            "request": "launch",
+            "mainClass": "Scrollbardemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Textdemo",
+            "request": "launch",
+            "mainClass": "Textdemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch TimerWindow",
+            "request": "launch",
+            "mainClass": "TimerWindow",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch UrlDemo",
+            "request": "launch",
+            "mainClass": "UrlDemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Windowdemo",
+            "request": "launch",
+            "mainClass": "Windowdemo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch d5",
+            "request": "launch",
+            "mainClass": "d5",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch dialog1",
+            "request": "launch",
+            "mainClass": "dialog1",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch excample",
+            "request": "launch",
+            "mainClass": "excample",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaform",
+            "request": "launch",
+            "mainClass": "javaform",
+            "projectName": "Java_145d16dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "Java_145d16dd"
+        }
+    ]
+}
